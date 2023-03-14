@@ -8,5 +8,5 @@ namespace ConsoleApp23
 {
     class NewClass
     {
-    }
+    }//mb
 }
