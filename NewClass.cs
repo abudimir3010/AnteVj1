@@ -8,5 +8,9 @@ namespace ConsoleApp23
 {
     class NewClass
     {
+        public int v()
+        {
+           
+        }
     }
 }
