@@ -10,7 +10,7 @@ namespace ConsoleApp23
     {
         public int v()
         {
-           
+           // ispravak issue
         }
     }
 }
